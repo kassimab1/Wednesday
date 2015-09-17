@@ -1,0 +1,53 @@
+.Fido {
+  width: 20%;
+  float: left;
+  background-color: #FFFFCC;
+
+}
+
+.Spotty {
+  width: 20%;
+  float: left;
+  background-color: #FFDFCC;
+
+}
+.Fin {
+  width: 20%;
+  float:left;
+  background-color: #FFFFDC;
+
+}
+.Nomee {
+  width: 20%;
+  float: left;
+  background-color: blue;
+
+}
+
+.Henry {
+  width: 20%;
+  float: left;
+  background-color:green;
+
+}
+img {
+  width:200px;
+  height:200px;
+}
+
+h2 {
+  color:red;
+}
+
+.Spotty ul li {
+  color: purple;
+
+}
+
+
+.Fin ul li {
+  font-family: arial;
+  color: green;
+  font-style: italic; 
+
+}
